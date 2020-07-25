@@ -1,0 +1,25 @@
+.Header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 50px;
+    background: white;
+    height: 120px;
+}
+.Header h1 {
+    margin: 0;
+    font-size: 40px;
+}
+.Header h1 a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: black;
+}
+.Header h1 a:hover {
+    opacity: 0.8;
+}
+.Header h1 a span {
+    font-size: 25px;
+    margin-left: 15px;
+}

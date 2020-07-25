@@ -1,0 +1,13 @@
+.App {
+    background-color: red;
+    min-height: 100vh;
+    display: flex;
+}
+.App .Nav {
+    width: 120px;
+    background-color: lightblue;
+}
+.App .Content {
+    background-color: lightgreen;
+    width: calc(100% - 120px);
+}

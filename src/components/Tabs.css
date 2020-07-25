@@ -1,0 +1,26 @@
+.Tabs ul li {
+    display: inline-block;
+    border: 1px solid black;
+    border-bottom: none;
+}
+.Tabs ul li a {
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    background: grey;
+    padding: 10px 25px;
+    display: block;
+}
+.Tabs ul li a.active {
+    background-color: black;
+}
+.Tabs ul li a:hover {
+    background-color: #6b6868;
+}
+.Tabs ul li a.active:hover {
+    background-color: black;
+}
+.Tabs ul li:last-child {
+    border-left: none;
+    pointer-events: none;
+}

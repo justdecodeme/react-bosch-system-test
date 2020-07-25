@@ -1,0 +1,33 @@
+.Navigation {
+    height: 100%;
+}
+.Navigation ul {
+    height: 100%;
+    background-color: #b1acac;
+}
+.Navigation li {
+    height: 120px;
+}
+.Navigation ul li a {
+    background: grey;
+    color: white;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.Navigation ul li a.active {
+    background-color: black;
+}
+.Navigation ul li a:hover {
+    background-color: #6b6868;
+}
+.Navigation ul li a:active {
+    background-color: grey;
+}
+.Navigation ul li a.active:hover {
+    background-color: black;
+}

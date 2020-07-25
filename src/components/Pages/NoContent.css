@@ -1,0 +1,9 @@
+.NoContent {
+    text-align: center;
+}
+.NoContent h1 {
+    margin: 100px 0 0;
+    padding: 50px 100px;
+    border: 1px solid black;
+    display: inline-block;
+}

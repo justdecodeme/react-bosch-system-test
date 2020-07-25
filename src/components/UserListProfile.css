@@ -1,0 +1,43 @@
+.UserProfile li {
+    list-style: none;
+    margin-bottom: 20px;
+}
+.UserProfile .Info {
+    padding: 30px 0;
+    text-align: center;
+}
+
+.UserProfile form {
+    padding: 30px 0;
+}
+.UserProfile input {
+    display: block;
+    border: 1px solid grey;
+    padding: 11px;
+    width: 400px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border-radius: 0px;
+}
+.UserProfile input[type="submit"] {
+    background: blueviolet;
+    color: white;
+    font-size: 22px;
+    width: 160px;
+    margin-bottom: 0;
+    cursor: pointer;
+}
+.UserProfile input[type="submit"]:hover {
+    background-color: #7f25d2;
+}
+
+.UserProfile .error {
+    background: salmon;
+    padding: 20px;
+    margin-bottom: 30px;
+    width: 400px;
+    margin: 0 auto 30px;
+    border: 2px solid red;
+    color: white;
+    font-size: 16px;
+}

@@ -1,0 +1,8 @@
+.Breadcrumb {
+    padding: 8px 50px;
+    background: #eaeaea;
+    font-size: 14px;
+}
+.Breadcrumb ul li {
+    display: inline;
+}
