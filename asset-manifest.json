@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-bosch-system-test/static/css/main.e8c4e00c.chunk.css",
+    "main.js": "/react-bosch-system-test/static/js/main.7122e913.chunk.js",
+    "main.js.map": "/react-bosch-system-test/static/js/main.7122e913.chunk.js.map",
+    "runtime-main.js": "/react-bosch-system-test/static/js/runtime-main.977c063f.js",
+    "runtime-main.js.map": "/react-bosch-system-test/static/js/runtime-main.977c063f.js.map",
+    "static/js/2.6d8371fa.chunk.js": "/react-bosch-system-test/static/js/2.6d8371fa.chunk.js",
+    "static/js/2.6d8371fa.chunk.js.map": "/react-bosch-system-test/static/js/2.6d8371fa.chunk.js.map",
+    "index.html": "/react-bosch-system-test/index.html",
+    "precache-manifest.259b889ca19d7233e8758db6267a4a51.js": "/react-bosch-system-test/precache-manifest.259b889ca19d7233e8758db6267a4a51.js",
+    "service-worker.js": "/react-bosch-system-test/service-worker.js",
+    "static/css/main.e8c4e00c.chunk.css.map": "/react-bosch-system-test/static/css/main.e8c4e00c.chunk.css.map",
+    "static/js/2.6d8371fa.chunk.js.LICENSE.txt": "/react-bosch-system-test/static/js/2.6d8371fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.977c063f.js",
+    "static/js/2.6d8371fa.chunk.js",
+    "static/css/main.e8c4e00c.chunk.css",
+    "static/js/main.7122e913.chunk.js"
+  ]
+}
