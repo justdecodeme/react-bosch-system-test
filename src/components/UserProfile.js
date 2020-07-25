@@ -109,9 +109,22 @@ function UserProfile(props) {
             {user && !isEdit && !isSubmit ? renderUser : null}
             {isEdit ? renderForm : null}
             {isSubmit ? (
-                <h3 style={{ color: "yellow", textAlign: "center" }}>
-                    Form Submitted Successfully!
-                </h3>
+                <div className="Info">
+                    <h3 style={{ color: "yellow", textAlign: "center" }}>
+                        Form Submitted Successfully!
+                    </h3>
+                    <ul>
+                        <li>
+                            <b>First Name:</b> {firstName}
+                        </li>
+                        <li>
+                            <b>Last Name:</b> {lastName}
+                        </li>
+                        <li>
+                            <b>Email:</b> {email}
+                        </li>
+                    </ul>
+                </div>
             ) : null}
         </div>
     );
